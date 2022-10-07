@@ -1,3 +1,6 @@
+# You can visit the deployed app using this link
+https://6340a0d4181c6e0f7289a4b6--grand-gnome-5294ac.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
